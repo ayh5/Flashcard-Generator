@@ -1,0 +1,27 @@
+{
+  "data": {
+    "basic": [
+      {
+        "question": "What city in Australia has the highest population??",
+        "answer": "Sydney"
+      },
+      {
+        "question": "The Mexican city of Tijuana borders what U.S city??",
+        "answer": "San Diego"
+      },
+      {
+        "question": "What is the farthest human-made object from planet Earth?",
+        "answer": "Voyager 1"
+      },
+      {
+        "question": "Who was the vice president that served under President Barack Obama?\"",
+        "answer": "Joe Biden"
+      }
+    ],
+
+    "cloze": [
+      {
+        "text": 
+        "cloze": 
+    
+  }
